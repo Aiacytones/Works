@@ -1,0 +1,6 @@
+C:\Users\Саша\source\repos\Dz2.Ryabikov.UTS_22\Dz2.Ryabikov.UTS_22\bin\Debug\Dz2.Ryabikov.UTS_22.exe.config
+C:\Users\Саша\source\repos\Dz2.Ryabikov.UTS_22\Dz2.Ryabikov.UTS_22\bin\Debug\Dz2.Ryabikov.UTS_22.exe
+C:\Users\Саша\source\repos\Dz2.Ryabikov.UTS_22\Dz2.Ryabikov.UTS_22\bin\Debug\Dz2.Ryabikov.UTS_22.pdb
+C:\Users\Саша\source\repos\Dz2.Ryabikov.UTS_22\Dz2.Ryabikov.UTS_22\obj\Debug\Dz2.Ryabikov.UTS_22.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\Dz2.Ryabikov.UTS_22\Dz2.Ryabikov.UTS_22\obj\Debug\Dz2.Ryabikov.UTS_22.exe
+C:\Users\Саша\source\repos\Dz2.Ryabikov.UTS_22\Dz2.Ryabikov.UTS_22\obj\Debug\Dz2.Ryabikov.UTS_22.pdb
